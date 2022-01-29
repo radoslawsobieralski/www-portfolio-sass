@@ -17,12 +17,12 @@
 
 .btn-main {
   color: #333333;
-  background: #ffbc00;
+  background: #ffbb00;
 }
 
 .btn-light {
   color: #333333;
-  background: #f4f4f4;
+  background: whitesmoke;
 }
 
 .btn-dark {
@@ -33,7 +33,7 @@
 button[class^="btn-"]:hover,
 a[class^="btn-"]:hover,
 input[class^="btn-"]:hover {
-  background: #ffbc00;
+  background: #ffbb00;
 }
 
 .lead {
@@ -89,7 +89,7 @@ input[class^="btn-"]:hover {
 body {
   font-family: "Dosis", sans-serif;
   line-height: 1.6;
-  background: #ffffff;
+  background: white;
 }
 
 a {
@@ -114,7 +114,7 @@ img {
 #logo {
   width: 70px;
   height: 70px;
-  color: #ffffff;
+  color: white;
   text-transform: uppercase;
 }
 
@@ -140,7 +140,7 @@ img {
 
 #main-nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: white;
   text-transform: uppercase;
   border-bottom: 3px transparent solid;
   padding-bottom: 0.5rem;
@@ -153,13 +153,13 @@ img {
 }
 
 #main-nav a.current {
-  border-color: #ffbc00;
+  border-color: #ffbb00;
 }
 
 #header-home {
   background: url("./img/showcase.jpg") no-repeat center right/cover;
   height: 100vh;
-  color: #ffffff;
+  color: white;
 }
 
 #header-home .header-content {
@@ -182,7 +182,7 @@ img {
 }
 
 #home-a .specials .fas {
-  color: #ffbc00;
+  color: #ffbb00;
   padding-bottom: 0.4rem;
 }
 
@@ -211,7 +211,7 @@ img {
 }
 
 #home-b .stats div:nth-child(odd) {
-  background: #f4f4f4;
+  background: whitesmoke;
 }
 
 #home-b .stats div:nth-child(even) {
